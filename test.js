@@ -10,3 +10,4 @@ console.log("Added new user");
 console.log("Hi it's meg");
 
 console.log("Another console log!");
+console.log("More stuff")
