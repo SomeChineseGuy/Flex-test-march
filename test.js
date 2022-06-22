@@ -5,5 +5,6 @@ console.log("Hello");
 
 console.log("I hate tests");
 
+console.log("Branching!!");
 console.log("Added new user");
 console.log("Hi it's meg");
