@@ -6,3 +6,4 @@ console.log("Hello");
 console.log("I hate tests");
 
 console.log("Added new user");
+console.log("Hi it's meg");
