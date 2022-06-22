@@ -1,5 +1,6 @@
-console.log("Hello");
+console.log("Hello")
 
+console.log("YO YO YO!! WARRIORS WON THE CHAMPIONSHIPS!!!")
 console.log('anything but word. I am TIRED of seeing hello world');
 console.log("Hello");
 
